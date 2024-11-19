@@ -34,4 +34,3 @@ List of eAnnexes (electronic annexes)
 -	Model 1 .xml
 -	Model 2 .xml
 -	Model 3. xml 
-![image](https://github.com/user-attachments/assets/5701193c-4173-45d8-90ab-7d6c42e51346)

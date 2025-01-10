@@ -18,15 +18,7 @@ List of eAnnexes (electronic annexes)
 -	TEI document Chapter 7
 -	TEI document Chapter 8
 -	TEI document Chapter 9
--	Database: .xlsx Chapter 1
--	Database: .xlsx Chapter 2
--	Database: .xlsx Chapter 3
--	Database: .xlsx Chapter 4
--	Database: .xlsx Chapter 5
--	Database: .xlsx Chapter 6
--	Database: .xlsx Chapter 7
--	Database: .xlsx Chapter 8
--	Database: .xlsx Chapter 9
+-	Database: Sentence-Segmentation UtopiadeThomasMoro .xslx
 -	Website
 -	Model 1 .xml
 -	Model 2 .xml

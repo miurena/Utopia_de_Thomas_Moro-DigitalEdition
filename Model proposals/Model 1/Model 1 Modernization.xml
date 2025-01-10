@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="title"> Relación que hizo Rafael Hithlodeo, excelente varón, del feliz estado
+            de la república de Utopia, ordenada por Thomas Moro, vizconde, ciudadano de la insigne
+            ciudad de Londres en Inglaterra. </head>
+         <div type="chapter" n="1">
+            <head type="title">Descripción de la Isla. Capítulo I</head>
+            <ab>
+               <seg n="1.1" type="singleSentence">
+                  <seg xml:id="em-1-01-1" n="em 1.1" corresp="#es-1-01-1">La Isla de los Utopienses
+                     en el medio se extiende a doscientos mil pasos, y por larguísimo espacio no se
+                     estrecha considerablemente; mas al fin de entre ambos cabos se va
+                     ensangostando, y estas puntas en circunferencia de cincuenta mil pasos dejan la
+                     Isla en forma de Luna nueva.</seg>
+               </seg>
+               <seg n="1.2" type="singleSentence">
+                  <seg xml:id="em-1-02-01" n="em 1.2" corresp="#es-1-02-1">Estas extremidades
+                     combatidas del mar se hallan distantes la una de la otra otros once mil y el
+                     mar defendido de los vientos.</seg>
+               </seg>
+               <seg n="1.3" type="singleSsentence">
+                  <seg xml:id="em-1-03-1" n="em 1.3" corresp="#es-1-03-1">Entre estos brazos forma
+                     un apacible lago, dejando un puerto acomodado desde donde, por su oportunidad,
+                     envían sus flotas a otras provincias y países.</seg>
+               </seg>
+               <seg n="1.4" type="singleSentence">
+                  <seg xml:id="em-1-04-1" n="em 1.4" corresp="#es-1-04-1">Las gargantas de las
+                     entradas de la una parte con los bancos y bados y de la otra, con disimulados
+                     escollos, ponen espanto al que pretende entrar como enemigo.</seg>
+               </seg>
+               <seg n="1.5" type="singleSentence">
+                  <seg xml:id="em-1-05-1" n="em 1.5" corresp="#es-1-05-1">Casi en el medio de este
+                     espacio se ve otra roca no tan peligrosa, en cuya eminencia han fabricado un
+                     fuerte, donde tienen presidio.</seg>
+               </seg>
+               <!-- the rest of segments of the chapter would follow here -->
+            </ab>
+         </div>
+         <div type="chapter" n="2">
+            <head type="chapter">De las ciudades, especialmente de Amauroto. Capítulo II</head>
+            <ab>
+               <seg n="2.1" type="multisentence">
+                  <seg xml:id="em-2-1-1" n="em 2.1" corresp="#es-2-1-1">El que ha visto una de
+                     aquellas ciudades las ha visto todas, tanto son semejantes las unas con las
+                     otras, donde la disposición del sitio lo consiente.</seg><seg xml:id="em-2-1-2"
+                     n="em 2.2" corresp="#es-2-1-1">Haré relación de una, bien que no importe más
+                     describir esta que aquella.</seg><seg xml:id="em-2-1-3" n="em 2.3"
+                     corresp="#es-2-1-1">Sin embargo, discurriré de Amauroto por ser más digna y
+                     tener dentro de sí el senado, y de todas las más ennoblecida, y de quien yo me
+                     hallo con mayores noticias por haber morado en ella cinco años.</seg>
+               </seg><seg n="2.2" type="multisentence">
+                  <seg xml:id="em-2-2-1" n="em 2.4" corresp="#es-2-2-1">Tiene pues su asiento a la
+                     falda de un monte.</seg><seg xml:id="em-2-2-2" n="em 2.5" corresp="#es-2-2-1"
+                     >Su forma es cuadrada, porque su latitud poco a poco se extiende desde la cima
+                     de un collado distancia de dos mil pasos hasta llegar al río Anidro y, pasada
+                     la ribera, se prolonga algo más.</seg>
+               </seg><seg n="2.3" type="multisentence">
+                  <seg xml:id="em-2-3-1" n="em 2.6" corresp="#es-2-2-1">Este río nace ochenta mil
+                     pasos en la parte de arriba de Amauroto, de una pequeña fuente, pero, con el
+                     concurso de otros ríos y, especialmente, el de otros dos medianos que entran en
+                     él, se aumentan sus aguas.</seg>
+                  <seg xml:id="em-2-3-2" n="em 2.7" corresp="#es-2-3-1">Antes de llegar a la ciudad
+                     se extiende su corriente quinientos pasos.</seg>
+                  <seg xml:id="em-2-3-3" n="em 2.8" corresp="#es-2-3-1">Luego, se va ensanchando más
+                     hasta que, por el discurso de sesenta mil pasos, entra en el océano.</seg>
+               </seg><seg n="2.4" type="singleSentence">
+                  <seg xml:id="em-2-4-1" n="em 2.9" corresp="#es-2-4-1">En todo este espacio que hay
+                     de la ciudad al mar y algo más arriba hacia el nacimiento, creciendo y
+                     menguando, el mar hace regolfos con la velocidad del río por seis horas
+                     continuas.</seg>
+               </seg><seg n="2.5" type="singleSentence">
+                  <seg xml:id="em-2-5-1" n="em 2.10" corresp="#es-2-5-1">Cuando entra en el piélago,
+                     por distancia de treinta mil pasos, se conoce su corriente, haciendo reflexión
+                     las aguas del Anidro con el encuentro de las del mar.</seg>
+                  <!-- the rest of segments of the chapter would follow here -->
+               </seg>
+            </ab>
+         </div>
+         <!-- the rest of chapters would follow here-->
+      </body>
+   </text>
+</TEI>

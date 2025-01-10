@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="base" xml:lang="es">
+            <head type="title">RELACION, QVE HIZO Rafael Hithlodeo, excelẽte varõ, del felice eſtado
+               dela republica de VTOPIA, ordenada por Thomas Moro, Vizcõde, Ciudadano de la inſigne
+               Ciudad de Londres en Inglaterra. </head>
+            <div n="1" type="chapter">
+               <head type="chapter">DESCRIPCION DE LA ISLA. Cap.I.
+               </head>
+               <ab>
+                  <seg type="sentence">
+                     <s n="es 1.1" xml:id="es-1-01-1">La Isla de los Vtopienſes, en el medio ſe
+                        eſtiẽnde a docientos mil paſſos, i por larguiſsimo eſpacio no ſe eſtrecha
+                        conſiderablement; mas alfin de entrambos aidos cabos ſe va enſangoſtando: i
+                        eſtas puntas en circunferẽcia de cinquenta mil paſſos, dexan la Isla en
+                        forma de Luna nueva.</s>
+                  </seg>
+                  <seg n="1.2" type="sentence">
+                     <s n="es 1.2" xml:id="es-1-02-1">Eſtas extremidades convatidas del mar ſe
+                        hallan diſtantes la una dela otra otros onze mil; i el mar defendido de los
+                        vientos.</s>
+                  </seg>
+                  <seg n="1.3" type="sentence">
+                     <s n="es 1.3" xml:id="es-1-03-1">Entre eſtos braços forma un apacible lago,
+                        dexando un puerto acomodado, deſde donde por ſu oportunidad embian ſus
+                        flotas a otras Provincias, i Paiſes.</s>
+                  </seg>
+                  <seg n="1.4" type="sentence">
+                     <s n="es 1.4" xml:id="es-1-04-1">Las gargantas de las entradas de la una parte
+                        con los bancos, i bados; i de la otra con diſsimulados eſcollos ponen
+                        eſpanto al que pretẽde entrar, como enemigo.</s>
+                  </seg>
+                  <seg n="1.5" type="sentence">
+                     <s n="es 1.5" xml:id="es-1-05-1">Casi en el medio deſte eſpacio ſe vee otra
+                        roca, notan peligroſa: en cuya eminencia han fabricado un fuerte, donde
+                        tienen preſidio.<anchor n="1" xml:id="note-1-1"/>
+                     </s>
+                  </seg>
+                  <!-- the rest of segments from the chapter would follow here -->
+                 </ab>
+            </div>
+            <div n="2" type="chapter">
+               <head type="chapter">De las Ciudades, eſpecialmente de Amauroto. Cap. II</head> <!-- revisar si Cap. II -->
+               <ab>
+                  <seg n="2.1" type="sentence">
+                     <s n="es 2.1" xml:id="es-2-1-1">EL que à viſto una de aquellas Ciudades
+                        las ha viſto todas, <app>
+                           <lem>tanto ſon ſemejantes</lem>
+                           <rdg wit="1790">tan semejantes son</rdg>
+                           <rdg wit="1805">tan semejantes son</rdg>
+                        </app> las unas cõ las otras, donde la diſpoſiciõ del ſitio lo
+                        conſiẽte, hare relacion de una, bien que no importe mas deſcrebir
+                        eſta, que aquella; ſin embargo diſcurrire de Amauroto, por ſer mas
+                        digna, i tener dentro de ſi el Senado, i de todas la mas
+                        ennoblecida, i de quien yo me hallo con mayores noticias, por aver
+                        morado en ella cinco años.</s>
+                  </seg><seg n="2.2" type="sentence">
+                     <s n="es 2.2" xml:id="es-2-2-1">Tiene pues ſu aſsiento a la falda de un
+                        monte, ſu forma es quadrada, porque ſu latitud poco a poco ſe
+                        eſtiende, deſde la cima de un collado, diſtãcia de dos mil paſſos
+                        haſta llegar al rio Anidro, i paſſada la ribera ſe prolõga algo
+                        mas.<anchor n="3" xml:id="note-2-1"/></s>
+                  </seg><seg n="2.3" type="sentence">
+                     <s n="es 2.3" xml:id="es-2-3-1">Eſte rio nace ochẽta mil paſſos a la
+                        parte arriba de Amauroto de una pequeña fuente, pero cõ el concurſo
+                        de otros rios, i eſpecialmente el de otros dos medianos, que entran
+                        en el ſe aumentan fus aguas: antes de llegar a la Ciudad ſe eſtiende
+                        ſu corriente quinientos paſſos, luego ſe va enſanchãdo mas hasta
+                        q[ue] por el diſcurſo de ſeſenta mil paſſos entra en el Oceano.</s>
+                  </seg><seg n="2.4" type="sentence">
+                     <s n="es 2.4" xml:id="es-2-4-1">En todo eſte eſpacio q[ue] ai de la
+                        Ciudad al mar, i algo mas arriba hazia el nacimiento, creciendo, i
+                        menguando el mar haze regolfos, con la velocidad del rio, por ſeis
+                        oras continuas.<anchor n="4" xml:id="note-2-2"/></s>
+                  </seg><seg n="2.5" type="sentence">
+                     <s n="es 2.5" xml:id="es-2-5-1">Quando entra en el pielago por diſtãcia
+                        de treinta mil paſſos ſe conoce ſu corriente, haziendo reflexion las
+                        aguas del Anidro, con el encuentro de las del mar.<anchor n="5" xml:id="note-2-3"/></s>
+                  </seg>
+                  <!-- the rest of segments of the chapter would follow here -->
+               </ab>
+            </div>
+         </div>
+         <div type="modernization" xml:lang="es">
+            <head type="title"> Relación que hizo Rafael Hithlodeo, excelente varón, del feliz
+               estado de la república de Utopia, ordenada por Thomas Moro, vizconde, ciudadano de la
+               insigne ciudad de Londres en Inglaterra. </head>
+            <div n="1" type="chapter">
+               <head type="chapter">Descripción de la Isla. Capítulo I</head>
+               <ab>
+                  <seg n="1.1" type="singleSentence">
+                     <seg corresp="#es-1-01-1" n="em 1.1" xml:id="em-1-01-1">La Isla de los
+                        Utopienses en el medio se extiende a doscientos mil pasos, y por larguísimo
+                        espacio no se estrecha considerablemente; mas al fin de entre ambos cabos se
+                        va ensangostando, y estas puntas en circunferencia de cincuenta mil pasos
+                        dejan la Isla en forma de Luna nueva.</seg>
+                  </seg>
+                  <seg n="1.2" type="singleSentence">
+                     <seg corresp="#es-1-02-1" n="em 1.2" xml:id="em-1-02-01">Estas
+                        extremidades combatidas del mar se hallan distantes la una de la otra otros
+                        once mil y el mar defendido de los vientos.</seg>
+                  </seg>
+                  <seg n="1.3" type="singleSentence">
+                     <seg corresp="#es-1-03-1" n="em 1.3" xml:id="em-1-03-1">Entre estos brazos
+                        forma un apacible lago, dejando un puerto acomodado desde donde, por su
+                        oportunidad, envían sus flotas a otras provincias y países.</seg>
+                  </seg>
+                  <seg n="1.4" type="singleSentence">
+                     <seg corresp="#es-1-04-1" n="em 1.4" xml:id="em-1-04-1">Las
+                        gargantas de las entradas de la una parte con los bancos y bados y de la
+                        otra, con disimulados escollos, ponen espanto al que pretende entrar como
+                        enemigo.</seg>
+                  </seg>
+                  <seg n="1.5" type="singleSentence">
+                     <seg corresp="#es-1-05-1" n="em 1.5" xml:id="em-1-05-1">Casi en
+                        el medio de este espacio se ve otra roca no tan peligrosa, en cuya eminencia
+                        han fabricado un fuerte, donde tienen presidio.</seg>
+                  </seg>
+                  <!-- the rest of segments from the chapter would follow here -->
+                </ab>
+            </div>
+            <div n="2" type="chapter">
+               <head type="chapter">De las ciudades, especialmente de Amauroto. Capítulo II</head>
+               <ab>
+                  <seg n="2.1" type="multisentence">
+                     <seg corresp="#es-2-1-1" n="em 2.1" xml:id="em-2-1-1">El que ha visto una de
+                        aquellas ciudades las ha visto todas, tanto son semejantes las unas con las
+                        otras, donde la disposición del sitio lo consiente.</seg><seg corresp="#es-2-1-1" n="em 2.2" xml:id="em-2-1-2">Haré relación de una, bien que no importe más
+                           describir esta que aquella.</seg><seg corresp="#es-2-1-1" n="em 2.3" xml:id="em-2-1-3">Sin embargo, discurriré de Amauroto por ser más digna y
+                              tener dentro de sí el senado, y de todas las más ennoblecida, y de quien yo me
+                              hallo con mayores noticias por haber morado en ella cinco años.</seg>
+                  </seg><seg n="2.2" type="multisentence">
+                     <seg corresp="#es-2-2-1" n="em 2.4" xml:id="em-2-2-1">Tiene pues su asiento a la
+                        falda de un monte.</seg><seg corresp="#es-2-2-1" n="em 2.5" xml:id="em-2-2-2">Su forma es cuadrada, porque su latitud poco a poco se extiende desde la cima
+                           de un collado distancia de dos mil pasos hasta llegar al río Anidro y, pasada
+                           la ribera, se prolonga algo más.</seg>
+                  </seg><seg n="2.3" type="multisentence">
+                     <seg corresp="#es-2-2-1" n="em 2.6" xml:id="em-2-3-1">Este río nace ochenta mil
+                        pasos en la parte de arriba de Amauroto, de una pequeña fuente, pero, con el
+                        concurso de otros ríos y, especialmente, el de otros dos medianos que entran en
+                        él, se aumentan sus aguas.</seg>
+                     <seg corresp="#es-2-3-1" n="em 2.7" xml:id="em-2-3-2">Antes de llegar a la ciudad
+                        se extiende su corriente quinientos pasos.</seg>
+                     <seg corresp="#es-2-3-1" n="em 2.8" xml:id="em-2-3-3">Luego, se va ensanchando más
+                        hasta que, por el discurso de sesenta mil pasos, entra en el océano.</seg>
+                  </seg><seg n="2.4" type="singleSentence">
+                     <seg corresp="#es-2-4-1" n="em 2.9" xml:id="em-2-4-1">En todo este espacio que hay
+                        de la ciudad al mar y algo más arriba hacia el nacimiento, creciendo y
+                        menguando, el mar hace regolfos con la velocidad del río por seis horas
+                        continuas.</seg>
+                  </seg><seg n="2.5" type="singleSentence">
+                     <seg corresp="#es-2-5-1" n="em 2.10" xml:id="em-2-5-1">Cuando entra en el piélago,
+                        por distancia de treinta mil pasos, se conoce su corriente, haciendo reflexión
+                        las aguas del Anidro con el encuentro de las del mar.</seg>
+                     <!-- the rest of segments of the chapter would follow here -->
+                  </seg>
+               </ab>
+            </div>
+         </div>
+         <div type="original" xml:lang="la">
+            <head type="title">Sermonis quem Raphael Hythlodaeus de optimo reipublicae statu habuit,
+               liber secundus, per Thomam Morum ciuem et uicecomitem londinensem.</head>
+            <div n="1" type="chapter">
+               <head type="title"><!-- no title --></head>
+               <ab>
+                  <seg n="1.1" type="multisentence">
+                     <seg corresp="#es-1-01-1" n="la 1.1" xml:id="la-1-01-1">
+                        Vtopiensium insula in media sui parte (nam hac latissima est) millia
+                        passuum ducenta porrigitur, magnumque per insulae spatium non multo
+                        angustior, fines uersus paulatim utrinque tenuatur.</seg>
+                     <seg corresp="#es-1-01-1" n="la 1.2" xml:id="la-1-01-2">
+                        hi uelut circunducti circino quingentorum ambitu millium, insulam totam in
+                        lunae speciem renascentis effigiant.</seg>
+                  </seg>
+                  <seg n="1.2" type="singleSentence">
+                     <seg corresp="#es-1-02-1" n="la 1.3" part="I" type="partial" xml:id="la-1-02-1">Cuius
+                        cornua fretum interfluens millibus passuum plus minus undecim dirimit, ac
+                        per ingens inane diffusum, circumiectu undique terrae prohibitis uentis,
+                     </seg>
+                  </seg>
+                  <seg n="1.3" type="singleSentence">
+                     <seg corresp="#es-1-03-1" n="la 1.3" part="F" type="partial" xml:id="la-1-03-1">uasti in
+                        morem lacus, stagnans magis quam saeuiens, omnem prope eius terrae aluum pro
+                        portu facit, magnoque hominum usu naues quaqua uersus transmittit.</seg>
+                  </seg>
+                  <seg n="1.4" type="singleSentence">
+                     <seg corresp="#es-1-04-1" n="la 1.4" xml:id="la-1-04-1">fauces
+                        hinc uadis inde saxis formidolosae.</seg>
+                  </seg>
+                  <seg n="1.5" type="singleSentence">
+                     <seg corresp="#es-1-05-1" n="la 1.5" xml:id="la-1-05-1">In medio
+                        ferme interstitio una rupes eminet, eoque innoxia, cui inaedificatam turrim
+                        praesidio tenent: caeterae latentes et insidiosae.</seg>
+                  </seg>
+                  <!-- the rest of segments from the chapter would follow here -->
+                </ab>
+            </div>
+            <div n="2" type="chapter">
+               <head type="chapter">DE VRBIBVS, AC NOMINATIM DE AMAVROTO</head>
+               <ab>
+                  <seg n="2.1" type="multisentence">
+                     <seg corresp="#es-2-1-1" n="la 2.1" xml:id="la-2-1-1">VRBium qui unam
+                        norit, omnes nouerit: ita sunt inter se (qua­tenus loci natura non
+                        obstat) omnino similes.</seg>
+                     <seg corresp="#es-2-1-1" n="la 2.2" xml:id="la-2-1-2"> Depingam igitur
+                        unam quampiam (neque enim admodum refert quam).</seg>
+                     <seg corresp="#es-2-1-1" n="la 2.3" xml:id="la-2-1-3"> Sed quam potius
+                        quam Amaurotum qua nee ulla dignior est, quippe cui senatus gratia
+                        reliquae deferunt, nec ulla mihi notior, ut in qua annos quinque
+                        perpetuo uixerim.</seg>
+                  </seg><seg n="2.2" type="multisentence">
+                     <seg corresp="#es-2-2-1" n="la 2.4" xml:id="la-2-2-1">Situm est igitur
+                        Amaurotum in leni deiectu montis, figura fere quadrata.</seg>
+                     <seg corresp="#es-2-2-1" n="la 2.5" xml:id="la-2-2-2"> Nam latitude eius
+                        paulo infra collis incoepta uerticem, millibus passuum duobus ad
+                        flumen Anydrum pertinet, secundum ripam aliquanto longior.</seg>
+                  </seg><seg n="2.3" type="multisentence">
+                     <seg corresp="#es-2-3-1" n="la 2.6" xml:id="la-2-3-1">Oritur Anydrus
+                        milibus octoginta supra Amaurotum, modico fonte, sed aliorum occursu
+                        fluminum, atque in his duorum etiam mediocrium, auctus, ante urbem
+                        ipsam quingentos in latum passus extenditur.</seg>
+                     <seg corresp="#es-2-3-1" n="la 2.7" xml:id="la-2-3-2"> Mox adhuc
+                        amplior, sexaginta milia prolapsus, excipitur oceano.</seg>
+                  </seg><seg n="2.4" type="singleSentence">
+                     <seg corresp="#es-2-4-1" n="la 2.8" xml:id="la-2-4-1">Hoc toto spacio,
+                        quod urbem ac mare interiacet, ac supra urbem quoque aliquot milia,
+                        sex horas perpetuas influens aestus ac refluus alternat celeri
+                        flumine.</seg>
+                  </seg><seg n="2.5" type="singleSentence">
+                     <seg corresp="#es-2-5-1" n="la 2.9" xml:id="la-2-5-1">Quum sese pelagus
+                        infert, triginta in longum milia, totum Anydri alueum suis occupat
+                        undis, profligate retrorsum fluuio.</seg>
+                  </seg>
+                  <!-- the rest of segments of the chapter would follow here -->               
+               </ab>
+            </div>
+         </div>
+         <div type="translation" xml:lang="en">
+            <head type="title">The second Boke of the communication of Raphael Hythlodaye,
+               concernyng the best state of a common wealthe: conteynyng the discription of Vtopia,
+               with a large declaration of the Godly gouernement, and of all the good lawes and
+               orders of the same Ilande.</head>
+            <div n="1" type="chapter">
+               <head type="title"><!-- no title --></head>
+               <ab>
+                  <seg n="1.1" type="multisentence">
+                     <seg corresp="#es-1-01-1" n="en 1.1" xml:id="en-1-01-1">The Ilande of Vtopia conteyneth in breadthe in the myddell part of it (for
+                        there it is brodest) CC miles.</seg>
+                     <seg corresp="#es-1-01-1" n="en 1.2" xml:id="en-1-01-2">
+                        Whiche bredthe continueth through the moste parte of the lande, sauyng that
+                        by lytle and lytle it commeth in and waxeth narrower towardes both the
+                        endes.</seg>
+                     <seg corresp="#es-1-01-1" n="en 1.3" xml:id="en-1-01-3">
+                        Whiche fetchynge about a circuite or compasse of vc myles, do fassion the
+                        hole Ilande lyke to the newe mone.</seg>
+                  </seg>
+                  <seg n="1.2" type="singleSentence">
+                     <seg corresp="#es-1-02-1" n="en 1.4" part="I" type="partial" xml:id="en-1-02-1">Betwene
+                        thys two corners the sea runneth in, diuydyng them a sonder by the distaunce
+                        of xi miles or there aboutes, and there surmounteth into a large and wyde
+                        sea, which, by reason that the lande of euery syde compasseth it about, and
+                        shiltreth it from the windes,</seg>
+                  </seg>
+                  <seg n="1.3" type="singleSentence">
+                     <seg corresp="#es-1-03-1" n="en 1.5" part="F" type="partial" xml:id="en-1-03-1"> is not
+                        rough nor mountith not with great waues, but almost floweth quietlye, not
+                        muche vnlike a great standing powle; and maketh almoste al the space within
+                        the bellye of the lande in maner of a hauen; and to the great commoditie of
+                        the lnhabitauntes receaueth in shyppes towardes euery parte of the
+                        lande.</seg>
+                  </seg>
+                  <seg n="1.4" type="singleSentence">
+                     <seg corresp="#es-1-04-1" n="en 1.6" xml:id="en-1-04-1">The
+                        forefrontes or frontiers of the ii corners, what wythe fordys and shelues,
+                        and what with rockes, be very ieoperdous and daungerous.</seg>
+                  </seg>
+                  <seg n="1.5" type="multisentence">
+                     <seg corresp="#es-1-05-1" n="en 1.7" xml:id="en-1-05-1">In
+                        the middel distaunce between them both standeth vp aboue the water a great
+                        rocke, which therfore is nothing perillous bicause it is in sight.</seg>               
+                     <seg corresp="#es-1-05-1" n="en 1.8" xml:id="en-1-05-2">
+                        Vpon the top of this rocke is a faire and a strong towre builded, which thei
+                        holde with a garison of men.</seg>
+                  </seg>
+                <!-- the rest of segments from the chapter would follow here -->
+               </ab>
+             </div>
+            <div n="2" type="chapter">
+               <head type="title">The cities, especially Amaurotum</head>
+               <ab>
+                  <seg n="2.1" type="multisentence">
+                     <seg corresp="#es-2-1-1" n="en 2.1" xml:id="en-2-1-1">AS for their Cyties, he that
+                        knoweth one of them knoweth them all: they be all so lyke one to an other, as
+                        ferfurth as the nature of the place permytteth.</seg>
+                     <seg corresp="#es-2-1-1" n="en 2.2" xml:id="en-2-1-2"> I wyll descrybe therfore to
+                        yowe one or other of them, for it skylleth not greatly whych; but which rather
+                        then Amaurote?</seg>
+                     <seg corresp="#es-2-1-1" n="en 2.3" xml:id="en-2-1-3"> Of them all this is the
+                        worthiest and of moste dignitie.</seg>
+                     <seg corresp="#es-2-1-1" n="en 2.4" xml:id="en-2-1-4"> For the resydwe knowledge
+                        it for the head cytie, because there is the councell house.</seg>
+                     <seg corresp="#es-2-1-1" n="en 2.5" xml:id="en-2-1-5"> Nor to me any of them al is
+                        better beloued, as wherin I lyued fyue hole yeares together.</seg>
+                  </seg>
+                  <seg n="2.2" type="multisentence">
+                     <seg corresp="#es-2-2-1" n="en 2.6" xml:id="en-2-2-1">The cytie of Amaurote
+                        standeth vpon the syde of a low hill, in fashion almoste four square.</seg>
+                     <seg corresp="#es-2-2-1" n="en 2.7" xml:id="en-2-2-2"> For the bredeth of it
+                        begynneth a litle benethe the toppe of the hyll, and styli contyneweth by the
+                        space of twoo miles vntyll it cum to the ryuer of Anyder.</seg>
+                     <seg corresp="#es-2-2-1" n="en 2.8" xml:id="en-2-2-3"> The lenghte of it whiche
+                        lyeth by the ryuers syde is sumwhat more.</seg>
+                  </seg>
+                  <seg n="2.3" type="multisentence">
+                     <seg corresp="#es-2-3-1" n="en 2.9" xml:id="en-2-3-1">The ryuere of Anyder rysethe
+                        xxiii myles aboue Amaurote owte of a lytle sprynge.</seg>
+                     <seg corresp="#es-2-3-1" n="en 2.10" xml:id="en-2-3-2"> But beynge increasede by
+                        other small floodes and broukes that runne into yt, and amonge othere ii
+                        sumwhat bygge ons, before the cytye yt ys halfe a myle brode, and farther
+                        broder.</seg>
+                     <seg corresp="#es-2-3-1" n="en 2.11" xml:id="en-2-3-3"> And lx myles beyonde the
+                        citye yt falleth into the Ocean sea.</seg>
+                  </seg>
+                  <seg n="2.4" type="singleSentence">
+                     <seg corresp="#es-2-4-1" n="en 2.12" xml:id="en-2-4-1">By al that space that
+                        lyethe betwene the sea and the cytye, and a good sorte of myles also aboue the
+                        cytye, the water ebbethe and flowethe vi houres togethere wyth a swyfte
+                        tyde.</seg>
+                  </seg>
+                  <seg n="2.5" type="singleSentence">
+                     <seg corresp="#es-2-5-1" n="en 2.13" xml:id="en-2-5-1">Whan the sea flowethe in
+                        for the lenghte of xxx myles, yt fyllethe all the Anyder wyth salte water, and
+                        dryuethe backe the fresshe water of the ryuer.</seg>
+                  </seg>
+                  <!-- the rest of segments of the chapter would follow here -->
+               </ab>
+            </div>
+         </div>
+         <div type="notes">
+            <note n="1" target="#note-1-1" xml:id="n-1-1">Medinilla translates the Latin word
+               "praesidium" as "presidio". According to Covarrubias (1611, fol. 595v), this is the
+               place where soldiers keep guard. In today's Spanish the meaning shifts to
+               penitentiary institution.</note>
+            <note n="3" target="#note-2-1" xml:id="n-2-1">Medinilla does not correctly translate
+               “Nam latitude eius paulo infra collis incoepta uerticem, millibus passuum duobus ad
+               flumen Anydrum pertinet, secundum ripam aliquanto longior”. He mistranslates it as
+               "su latitud poco a poco se extiende desde la cima de un collado" ("its latitude
+               little by little extends from the top of the hill") instead of "Its breadth is about
+               two miles starting just below the crest of the hill" (Yale, 117 ls. 34-35). It seems
+               he omits "infra". Looking at distance measure, the English translator opts for the
+               adaptation of measure to the ones used in England, whereas Medinilla does not locate
+               them. "millibus passuum" are two miles in English, according to Robinson, and "dos
+               mil pasos" ("two thousand paces") in Spanish.</note>
+            <note n="4" target="#note-2-2" xml:id="n-2-2">Medinilla seems to complicate the
+               translation. He introduces the expressions "hacia el nacimiento" ("towards the source
+               [of the river]") and "hace regolfos" ("the water flows backwards"). There is no Latin
+               equivalent.</note> 
+            <note n="5" target="#note-2-3" xml:id="n-2-3">In this segment, Medinilla makes a rather disorganized translation
+               too. Instead of "When the see comes in, it fills the whole bed of the Anydrus with its
+               water for a distance of thirty miles, driving the river back" (Yale, 119 ls. 10-13),
+               Hythlodays says: "When it enters the sea for a distance of thirty thousand paces, its
+               current is known, the waters of the Anydrus reflecting when meeting those of the sea".</note>
+            <!-- the rest of footnotes would follow here -->
+         </div>
+      </body>
+  </text>
+</TEI>

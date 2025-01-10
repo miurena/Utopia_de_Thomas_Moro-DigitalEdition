@@ -1,10 +1,8 @@
 # Utopia_de_Thomas_Moro-DigitalEdition
-Repository of the digital project "Utopia de Thomas Moro - A Digital Edition". The following annexes are available here:
--	Annex 1: Title pages of the 1637, 1790 and 1805 editions
--	Annex 2: Printing errors in pagination and in running heads
--	Annex 3: List of paratexts in Utopia de Thomas Moro (1637) [complete]
--	Annex 4: List of elements and their definition according to the TEI guidelines
+Repository of the digital project "Utopia de Thomas Moro - A Digital Edition". 
+
 List of eAnnexes (electronic annexes)
+
 -	.txt file 1637
 -	.txt file modernization
 -	.txt file English text
